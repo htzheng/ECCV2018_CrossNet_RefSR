@@ -18,10 +18,10 @@ h5py
 Please cite our paper if you find it interesting!
 
 @inproceedings{zheng2018crossnet,  
-  title={CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping},  
-  author={Zheng, Haitian and Ji, Mengqi and Wang, Haoqian and Liu, Yebin and Fang, Lu},  
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},  
-  pages={88--104},  
-  year={2018}  
+    title={CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping},  
+    author={Zheng, Haitian and Ji, Mengqi and Wang, Haoqian and Liu, Yebin and Fang, Lu},  
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},  
+    pages={88--104},  
+    year={2018}  
 }
 
