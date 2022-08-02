@@ -1,3 +1,5 @@
+**NEWS **: A improved CrossNet++ is published in TPAMI and the code can be found at https://github.com/THU-luvision/CrossNetPP
+
 ## Description
 This repository contains the pyTorch implementation of ECCV2018 paper ''CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping''. Note that we use a batchsize of 4 instead of 2, and a slightly different input for flownet (see usage 1), results with ~0.2dB higher PSNR is achieved.
 
